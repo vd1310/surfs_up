@@ -15,6 +15,12 @@ The purpose of this project is to determine the temperature data for the months 
 
 ![alt text](https://github.com/vd1310/surfs_up/blob/main/June.PNG)
 
+### B: Deliverable 2: 
+#### 1:Summary Statistics for December
+#### 2:
+#### 3:
+
+![alt text](https://github.com/vd1310/surfs_up/blob/main/December.PNG)
 
 
 ## Summary
