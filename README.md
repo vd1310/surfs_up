@@ -9,7 +9,7 @@ The purpose of this project is to determine the temperature data for the months 
 
 ## Results: 
 ### A: Deliverable 1: 
-#### 1:
+#### 1:Summary Statistics for June
 #### 2:
 #### 3:
 
