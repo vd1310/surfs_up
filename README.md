@@ -27,4 +27,5 @@ The purpose of this project is to determine the temperature data for the months 
 #### Summary of results: Although maximum temperature recorded in Oahu was almost similar (85 & 83) in June and December, June was generally hotter with mean of 74.9 versus 71 in December. Moreover 75% percentile recorded temperature was also higher in June. This clearly signifies that although the surf and ice cream shop business is sustainable year-round, June is better month for the sustainability of the business
 
 #### Two additional queries to get more results
-
+##### 1. We can even use Regression Analysis along with the use of plot (Matplotlib) functions to visualise the resulst
+##### 2. Box plots can also be used to identify the outliers
