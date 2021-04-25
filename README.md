@@ -13,7 +13,7 @@ The purpose of this project is to determine the temperature data for the months 
 #### 2:
 #### 3:
 
-![alt text](https://github.com/vd1310/Pewlett-Hackard-Analysis/blob/main/AnalysisProjectsFolder/Pewlett-Hackard-AnalysisFolder/Screenshots/pic1.png)
+![alt text](https://github.com/vd1310/surfs_up/blob/main/June.PNG)
 
 
 
